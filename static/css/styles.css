@@ -1,0 +1,33 @@
+html {background-color: #f4f4f4;}
+a:hover {text-decoration: none;}
+.iconfont {display:block; text-align: center; font-size: .53rem; padding-bottom: .13rem;}
+.mint-tabbar{background-color: #F7F7FA;}
+.mint-tabbar a {color: #808080}
+.mint-header {background-color: #C20C0C; height: 1.17rem}
+.hei117 { height: 1.17rem}
+.hei50{ height: 50px;}
+.l {float: left;}
+.r {float: right;}
+.imgb {border-radius: 50%;}
+.imgbx {display: block; width: 100%;}
+.mint-swipe {position: fixed;left: 0;top:1.17rem; height: 4.48rem; width: 100%;}
+.mint-swipe-item a {display: block; width: 100%;}
+.mint-swipe-item a img {display: block; width: 100%;}
+/* .mint-swipe-items-wrap {position:static;  height: 4.48rem;}
+.mint-swipe-item{position:static; height: 4.48rem;} */
+.mint-swipe-item>div {position:static; height: 4.48rem;}
+/* .newList {margin-top: 4.48rem;} */
+.listBox {padding: .2rem; padding-bottom: 0;background-color: #fff; margin-top: .2rem}
+.listBox .authorInfo {overflow: hidden;  width: 100%;}
+.listBox .authorInfo .l.pic {width: .93rem;}
+.listBox .authorInfo .l.info { padding-left: .27rem}
+.listBox .authorInfo .info span {font-size: .4rem; color: #333; padding-bottom: .13rem}
+.listBox .authorInfo .info p {color: #999; font-size: .24rem}
+.listBox .title {font-size: .37rem; padding: .13rem 0;}
+.imgList,.newlc {display: flex;justify-content: space-between;}
+.imgList .imgInfo {width: 100%; height: 5.47rem; overflow: hidden;}
+.newlc .newlc-int{width: 3.07rem; color: #bbb; font-size: .32rem; line-height: .93rem; text-align: center;}
+.newlc .newlc-int:before{content: "";  display: inline-block;  width: .4rem;height: .4rem;vertical-align: middle;margin-right: .13rem;}
+.newlc .inticon1:before {background: url(../images/card-liulan.svg) 0 .04rem no-repeat;background-size: .4rem auto;}
+.newlc .inticon2:before {background: url(../images/card-pinglun.svg) 0 .04rem no-repeat;background-size: .4rem auto;}
+.newlc .inticon3:before {background: url(../images/card-zan.svg) 0 no-repeat;background-size: .4rem auto;}
